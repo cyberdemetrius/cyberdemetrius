@@ -14,7 +14,7 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
 - [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - *[EN-US] A Risk register that is a part of an assessment of a company's operational environment.*
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - *[EN-US] Other professional and academic activities.*
 
-#### 📌 Access to my complete Cybersecurity Portfolio [here. <<<](https://github.com/cyberdemetrius/demetriusportfolio)
+#### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
 ## 🌐 Socials
 
