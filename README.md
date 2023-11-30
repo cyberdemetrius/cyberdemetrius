@@ -7,12 +7,12 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
 
 ## 📝 Check some of my projects and professional activities!
 
-- [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - 🇵🇹-🇧🇷 » *A simple app to generate secure passwords using Python.*
-- [An Internal IT Security Audit](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing) - ᴇɴ-ᴜꜱ » *A security audit with: Risk assessment, Controls assessment and Compliance assessment*
-- [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing) - ᴇɴ-ᴜꜱ » *My Incident Handler's Journal and some incident reports involving Data leak, DDoS, and more.*
-- [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - ᴇɴ-ᴜꜱ » *A report based on NIST SP 800-30 Rev. 1.*
-- [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - ᴇɴ-ᴜꜱ » *A Risk register that is a part of an assessment of a company's operational environment.*
-- [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - ᴇɴ-ᴜꜱ » *Other professional and academic activities.*
+- [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - ᴘᴛ-ʙʀ » *A simple app to generate secure passwords using Python.*
+- [An Internal IT Security Audit](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸  » *A security audit with: Risk assessment, Controls assessment and Compliance assessment*
+- [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *My Incident Handler's Journal and some incident reports involving Data leak, DDoS, and more.*
+- [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *A report based on NIST SP 800-30 Rev. 1.*
+- [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *A Risk register that is a part of an assessment of a company's operational environment.*
+- [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *Other professional and academic activities.*
 
 #### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
