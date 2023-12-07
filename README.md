@@ -7,14 +7,14 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
 
 ## 📝 Check some of my projects and professional activities!
 
-- [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - ᴘᴛ-ʙʀ » *A simple app to generate secure passwords using Python.*
-- [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - ᴘᴛ-ʙʀ » *A simple Script that acts as a File Integrity Monitor.*
-- [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - ᴘᴛ-ʙʀ » *A small project of a Strong Password Checker.*
-- [An Internal IT Security Audit](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸  » *A security audit with: Risk, Controls and Compliance assessments.*
-- [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *My Incident Handler's Journal and incident reports involving Data leak, DDoS, and more.*
-- [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *A report based on NIST SP 800-30 Rev. 1.*
-- [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *A Risk register that is a part of an assessment of a company's operational environment.*
-- [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - 🇪​​​​​🇳​​​​​-🇺​​​​​🇸 » *Other professional and academic activities.*
+- [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - PT-BR » *A simple app to generate secure passwords using Python.*
+- [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - PT-BR » *A simple Script that acts as a File Integrity Monitor.*
+- [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - PT-BR » *A small project of a Strong Password Checker.*
+- [An Internal IT Security Audit](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing) - EN-US » *A security audit with: Risk, Controls and Compliance assessments.*
+- [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing) - EN-US » *My Incident Handler's Journal and incident reports involving Data leak, DDoS, and more.*
+- [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - EN-US » *A report based on NIST SP 800-30 Rev. 1.*
+- [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - EN-US » *A Risk register that is a part of an assessment of a company's operational environment.*
+- [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - EN-US » *Other professional and academic activities.*
 
 #### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
@@ -27,4 +27,4 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
   <a href="mailto:demetriusvf@gmail.com?subject=Olá" title="E-mail me:"><img src="https://img.shields.io/badge/demetriusvf@gmail.com-bb001b?&style=flat-square&logo=gmail&logoColor=white" /></a>
   </kbd> 
   
-  ##### 🌎 🇺🇸 | 🇪🇸 | 🇵🇹-🇧🇷 » *Feel free to contact me!*
+  ##### 🌎 *Feel free to contact me!*
