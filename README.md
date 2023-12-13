@@ -15,6 +15,7 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
 - [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - EN-US » *A report based on NIST SP 800-30 Rev. 1.*
 - [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - EN-US » *A Risk register that is a part of an assessment of a company's operational environment.*
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - EN-US » *Other professional and academic activities.*
+- [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing) - *You can find all my activities here.*
 
 #### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
