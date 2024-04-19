@@ -17,7 +17,7 @@ Besides hanging out on the keyboard, I enjoy spending some time with my family a
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - EN-US » *Other professional and academic activities.*
 - [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing) - *You can find all my activities here.*
 
-#### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
+### 📌 Access to my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
 ## 🌐 Socials
 
