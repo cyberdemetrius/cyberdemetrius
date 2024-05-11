@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 Hi, I'm ***Demétrius Vianna Fernandes***, a 26-year-old Cybersecurity Professional and a Bachelor of Law from Rio de Janeiro, Brazil. 
-I'm fascinated by cybersecurity, low and medium-level coding, conducting pentests, ensuring compliance and fortifying defenses against digital crimes. 
+I'm fascinated by cybersecurity, low and medium-level coding, conducting pentests, ensuring compliance and fortifying defenses against digital crimes. I also love to study offensive security. 
 Most of the projects I develop here are open source and available for everyone to use freely.
 
 Besides hanging out on the keyboard, I enjoy spending some time with my family and friends. I like soccer, electronic sports, jiu-jitsu, and listening to music (I also love to study new stuff while listening to my playlist).
