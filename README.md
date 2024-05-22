@@ -9,13 +9,14 @@ When I'm not at the keyboard, I enjoy spending time with my family and friends. 
 
 - [Secure Password Generator (Gerador de Senhas Seguras)](https://github.com/cyberdemetrius/gerador_de_senhas) - PT-BR » *A simple app to generate secure passwords using Python.*
 - [Monitor de Integridade de Arquivos (Linux e Windows)](https://github.com/cyberdemetrius/scriptmonit) - PT-BR » *A simple script that acts as a File Integrity Monitor.*
-- [VSS tool: Verificador de Senhas Seguras](https://github.com/cyberdemetrius/vss_tool) - PT-BR » *A small project of a strong password checker.*
 - [An Internal IT Security Audit](https://drive.google.com/file/d/1FryTPqUCQ-AZlPYwl4zfcGG1iL-08H02/view?usp=sharing) - EN-US » *A security audit with: Risk, Controls and Compliance assessments.*
 - [Some Incident Reports](https://drive.google.com/drive/folders/1E6i21XkeQrVu8U3tZfcu9dSiOeNfYtVU?usp=sharing) - EN-US » *My incident handler's journal and incident reports involving data leaks, DDoS, and more.*
 - [A Vulnerability Assessment Report](https://drive.google.com/file/d/159lydUet5h-ntC26iafLxgrxtlpG_1jR/view?usp=sharing) - EN-US » *A report based on NIST SP 800-30 Rev. 1.*
 - [A Risk register](https://drive.google.com/file/d/1J_HHADqWHfHA7zqPwPS8FjghRh0CsQyB/view?usp=sharing) - EN-US » *A risk register that is a part of an assessment of a company's operational environment.*
 - [Other activities](https://drive.google.com/drive/folders/14xYv5HvMYZ-_xiYrQ7pn9Kp4o06nSkBb?usp=sharing) - EN-US » *Other professional and academic activities.*
 - [All activities](https://drive.google.com/drive/folders/1euuPABtWflg5xyehLKxO_ZZA-2U6_v91?usp=sharing) - *You can find all my activities here.*
+
+### 📌 Access my certificates [here🔗](https://drive.google.com/drive/folders/1kMVdyl8Q7Nn7gnj4aYs0l5P1UYL3Dd6y?usp=sharing)
 
 ### 📌 Access my complete Cybersecurity Portfolio [here🔗](https://github.com/cyberdemetrius/demetriusportfolio)
 
