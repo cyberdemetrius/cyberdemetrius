@@ -1,5 +1,9 @@
 # 👨‍💻 About Me
-Hi, I'm ***Demétrius Vianna Fernandes***, a 26-year-old Cybersecurity Professional and a Bachelor of Law from Rio de Janeiro, Brazil. 
+Hi, I'm ***Demétrius Vianna Fernandes***, a 27-year-old Cybersecurity Professional and a Bachelor of Law from Rio de Janeiro, Brazil. 
+
+
+Currently, I work as a Cybersecurity resident in Hackers do Bem (an initiative of the Brazilian Federal Government), and my role involves blue team activities such as threat detection, incident response, and vulnerability management. 
+
 I'm passionate about cybersecurity, low and medium-level coding, conducting pentests, ensuring compliance, and fortifying defenses against digital crimes. I also love studying offensive security. 
 Most of the projects I develop here are open source and freely available for everyone.
 
